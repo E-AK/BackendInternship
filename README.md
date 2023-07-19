@@ -17,3 +17,7 @@
 # PHP. Задача 5
 
 [Анкета с пройдеными тестами](https://www.sololearn.com/profile/29625540)
+
+# PHP. Задача 6
+
+[Репозиторий с готовым проектом](https://github.com/E-AK/TaskListPHPTest/tree/task_6)
