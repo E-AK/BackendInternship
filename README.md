@@ -25,3 +25,7 @@
 # PHP. Задача 7
 
 [Ссылка на репозиторий](https://github.com/E-AK/PHP_OOP)
+
+# PHP. Задача 8
+
+[Репозиторий с готовым проектом](https://github.com/E-AK/TaskListPHPTest/tree/task_8)
