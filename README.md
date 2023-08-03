@@ -29,3 +29,11 @@
 # PHP. Задача 8
 
 [Репозиторий с готовым проектом](https://github.com/E-AK/TaskListPHPTest/tree/task_8)
+
+# PHP. Задача 9
+
+[Репозиторий с готовым проектом](https://github.com/E-AK/Comments)
+
+# PHP. Задача 10
+
+[Репозиторий с готовым проектом](https://github.com/E-AK/Library)
